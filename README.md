@@ -4,8 +4,8 @@ Rich Platform es el estudio de creación de contenido de **The Kid Company**: gu
 voces, imágenes, video y subtítulos en una sola app que corre en tu computadora.
 
 Para usarla necesitás una **membresía activa**. Tu correo y tu contraseña temporal te
-los da el equipo por Skool. Acá sólo están las descargas: el código de la app no es
-público.
+los da el equipo de The Kid Company cuando te sumás. Acá sólo están las descargas: el
+código de la app no es público.
 
 ## Descargar
 
@@ -53,6 +53,13 @@ tar -xzf Rich-Platform-linux.tar.gz
 
 ## Actualizar
 
+En **Windows y Linux**, cuando hace falta una versión nueva la app te avisa, la baja,
+comprueba que sea nuestra y se reinicia en ella. La versión anterior queda al lado, de
+respaldo, hasta la próxima actualización. En Windows, el acceso directo **Rich Platform**
+del escritorio y del menú Inicio abre siempre la vigente.
+
+Si tu versión todavía no se actualiza sola, o usás Mac:
+
 1. Cerrá la versión que tenés abierta con el botón **Salir**.
 2. Bajá la nueva desde los enlaces de arriba y descomprimila.
 3. Borrá la carpeta vieja.
@@ -66,6 +73,7 @@ pierden al actualizar.
   uno de los anteriores (hasta tres veces por mes).
 - La app necesita internet para entrar y revisa tu membresía cada tanto. Sin conexión
   sigue funcionando hasta 7 días.
+- La membresía se renueva con el equipo: escribinos y te confirmamos la renovación.
 - ¿Olvidaste tu contraseña? Escribinos a thekidcompanysas@gmail.com desde el correo de
   tu cuenta y te mandamos una contraseña temporal nueva.
 
