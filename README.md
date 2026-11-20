@@ -14,8 +14,9 @@ Estos enlaces bajan siempre la última versión:
 | Sistema | Descarga |
 |---|---|
 | **Windows 10 / 11** | [Rich-Platform-windows.zip](https://github.com/cano4est/rich-platform-releases/releases/latest/download/Rich-Platform-windows.zip) |
-| **Mac con chip Apple** (M1 o posterior) · experimental | [Rich-Platform-mac.zip](https://github.com/cano4est/rich-platform-releases/releases/latest/download/Rich-Platform-mac.zip) |
 | **Linux** (64 bits) | [Rich-Platform-linux.tar.gz](https://github.com/cano4est/rich-platform-releases/releases/latest/download/Rich-Platform-linux.tar.gz) |
+
+Por ahora no hay versión para Mac.
 
 Las notas de cada versión y las versiones anteriores están en
 [Releases](https://github.com/cano4est/rich-platform-releases/releases).
@@ -33,17 +34,6 @@ Las notas de cada versión y las versiones anteriores están en
 Para cerrar la app usá el botón **Salir** de la barra lateral. Cerrar la pestaña del
 navegador no la cierra.
 
-## Instalar en Mac (experimental)
-
-Sólo para Mac con chip Apple (M1 o posterior). La exportación a CapCut y el render por
-GPU todavía no andan en Mac.
-
-1. Descomprimí el `.zip` y mové `Rich-Platform.app` a **Aplicaciones** antes de abrirla.
-2. Abrila. La primera vez macOS la bloquea porque no está firmada por Apple: andá a
-   **Ajustes del Sistema → Privacidad y seguridad**, bajá hasta el aviso de Rich Platform
-   y tocá **Abrir igualmente**.
-3. La app no aparece en el Dock: se cierra con el botón **Salir** de la barra lateral.
-
 ## Instalar en Linux
 
 ```bash
@@ -58,7 +48,7 @@ comprueba que sea nuestra y se reinicia en ella. La versión anterior queda al l
 respaldo, hasta la próxima actualización. En Windows, el acceso directo **Rich Platform**
 del escritorio y del menú Inicio abre siempre la vigente.
 
-Si tu versión todavía no se actualiza sola, o usás Mac:
+Si tu versión todavía no se actualiza sola:
 
 1. Cerrá la versión que tenés abierta con el botón **Salir**.
 2. Bajá la nueva desde los enlaces de arriba y descomprimila.
@@ -83,7 +73,6 @@ Escribinos por Skool o a thekidcompanysas@gmail.com contando qué pasó, y adjun
 archivo de registro de la app:
 
 - **Windows**: `%LOCALAPPDATA%\Rich-Platform\data\logs\rich-platform.log`
-- **Mac**: `~/Library/Application Support/Rich-Platform/logs/rich-platform.log`
 - **Linux**: `~/.local/share/Rich-Platform/logs/rich-platform.log`
 
 El registro no guarda tus contraseñas ni tus claves.
